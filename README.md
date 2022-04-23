@@ -42,7 +42,10 @@ void ListWidget::on_btn_delete_clicked()
 
 ````
 
+## ScreenShoot
 
+![add.jpeg](https://github.com/kenjimaeda54/listWidget-Qt/blob/develop/add.jpeg)
+![tryAdd.jpeg](https://github.com/kenjimaeda54/listWidget-Qt/blob/develop/add.jpeg)
 
 
 
